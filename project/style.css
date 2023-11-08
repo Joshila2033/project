@@ -1,0 +1,239 @@
+
+*{
+margin: 0px;
+padding: 0px;
+}
+/*---- Admin section*/ 
+.jr{
+    padding: 80px 650px;
+    margin: 0px;
+    background-image: url("img/ict\ 2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+    height: 700px;   
+}
+.jr .btn{
+    
+    border-color: brown;
+    border-radius: 2px 5px;
+    background-color: brown;
+    color: black;
+    padding: 10px 20px;
+}
+.jr .btn:hover{
+    color: white;
+}
+    
+
+.navbar{
+    width: 100%;
+    height: 100px;
+    background-color:#000E4C;
+    
+
+}
+/* .navbar-nav {
+} */
+.navbar-brand{
+background-color: brown;
+padding: 20px 0px;
+font-weight: 600;
+}
+.navbar a{
+text-decoration: none;
+color: white;
+margin-right: 80px;
+cursor: pointer;
+}
+.navbar a:hover{
+    color: red;
+}
+.navbar h5{
+    text-decoration: none;
+    color: white;
+    margin-right: 80px;
+    cursor: pointer;
+    }
+    .navbar h5:hover{
+        color: red;
+    }
+/*........Staff section*/
+.hr .btn{
+    
+    border-color: brown;
+    border-radius: 2px 5px;
+    background-color: brown;
+    color: black;
+    padding: 10px 20px;
+}
+.hr .btn:hover{
+    color: white;
+    
+}
+.hr{
+    background-image: url("img/ict\ 2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+    padding: 100px 650px;
+    height: 740px;
+}
+.gr{
+    text-align: center;
+    padding: 40px 20px;
+}
+label {
+    width: 100px;
+    display: inline-block;
+}
+.ar{
+    background-color: black;
+    width: 100%;
+}
+
+.form-box{
+    /* display: none; */
+    background-color:#000E4C;
+    backdrop-filter: blur(30px);
+    border-radius: 20px;
+    color:white; 
+    
+}
+.form-sign{
+    background-color:#000E4C;
+    backdrop-filter: blur(30px);
+    border-radius: 20px;
+    height: 450px;
+    color:white; 
+    display: none;
+    top: 50px;
+    position: relative;
+}
+.form-sign h2{
+    padding-top: 50px;
+}
+
+
+/*......Student Section*/
+.yoo .btn{
+    
+    border-color: brown;
+    border-radius: 2px 5px;
+    background-color: brown;
+    color: black;
+    padding: 10px 20px;
+}
+.yoo .btn:hover{
+    color: white;
+    
+}
+.y{
+    display: block;
+    background-color: red;
+}
+.yoo{
+    background-image: url("img/ict\ 2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+    padding: 50px 650px;
+    height: 710px;
+}
+.modal-dialog{
+    outline: none;
+}
+/*...Home Section*/
+.br img{
+    width: 100%;
+    height: 550px;
+}
+.text h1{
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+.text p{
+    text-align: justify;
+    text-align: center;
+    padding-top: 20px;
+}
+footer{
+    background-color: black;
+    width: 100%;
+    height: 250px;
+    color: white;  
+}
+footer h2{
+    padding: 20px 30px;
+    color: rgb(189, 38, 38);
+}
+footer p{
+    padding: 0px 50px;
+    text-align: justify;
+}
+footer a{
+    padding: 0px 0px 50px 50px;
+}
+
+
+#modal{
+    position: relative;
+    background-color:brown;
+    color: white;
+    margin-top: -10px;
+    z-index: 7;
+    width: 20%;
+    border: 1px solid #eee;
+    margin-left: 40%;
+    padding: 10px;
+    display: none;
+} 
+#modal button{
+    margin-left: 80%;
+    border: 1px solid blue;
+    border-radius: 30px;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    width: 70px;
+}
+
+section{
+    position: absolute;
+    top: 90px;
+    right: 0;
+    left: 0;
+}
+.signin{
+    position: relative;
+    margin-top: 0px;
+    z-index: 10;
+}
+.tr{
+    background-color: #000E4C;
+    width: 100%;
+}
+.signin a{
+    text-decoration: none;
+    color: black;
+}
+.btn-group{
+    top: 200px;
+    position: relative;
+    margin: 50px;
+}
+/*......question page*/
+.kk{
+    background: url(img/KDU1430.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 710px;
+}
+/*----- obj*/
+.con{
+    padding: 80px;
+    background-color:#ac7331;
+    font-weight: 600;
+}
